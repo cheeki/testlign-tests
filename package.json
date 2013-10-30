@@ -8,8 +8,7 @@
             "chrome/20..latest",
             "firefox/10..latest",
             "safari/latest",
-            "opera/11.0..latest",
-            "iphone/6", "ipad/6"
+            "opera/11.0..latest"
         ]
     }
 }
